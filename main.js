@@ -44,7 +44,7 @@ function createWindow() {
           console.log(speaker.firstname)
           details = session.title;
           state =  'Watching the broadcast';
-          largeImageKey = 'judy_warner';
+          largeImageKey = speakerId.toString();
           largeImageText = speaker.firstname + " " + speaker.lastname;
           smallImageKey = 'altiumlive_logo';
           smallImageText = 'LIVE SUMMIT'
