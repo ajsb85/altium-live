@@ -1,0 +1,1764 @@
+{
+    "sessions": [
+        {
+            "id": 376155,
+            "importId": "SDwcwPyEJNXAb",
+            "eventId": 233058,
+            "title": "Summit Kickoff | Altium 21st Century Tools: What's coming in 2021",
+            "hidden": false,
+            "startDate": 1603152000000,
+            "endDate": 1603238399000,
+            "startMinute": 540,
+            "endMinute": 690,
+            "description": "The speed at which technology moves requires modern, powerful, and collaborative tools to enable electronics innovation. This has never been more relevant as the world has pivoted to more remote work environments. Altium's Chief Software architect Leigh Gawne and VP of Marketing Lawrence Romine will discuss how a new era of digital collaboration is poised to address these challenges. In this presentation, Leigh and Lawrence will be joined by a design engineer, a board fabrication expert, and an EMS expert who have found a way to collaborate and bring a product from idea to realization in 30 days",
+            "descriptionHtml": "<p>The speed at which technology moves requires modern, powerful, and collaborative tools to enable electronics innovation. This has never been more relevant as the world has pivoted to more remote work environments. Altium's Chief Software architect Leigh Gawne and VP of Marketing Lawrence Romine will discuss how a new era of digital collaboration is poised to address these challenges. In this presentation, Leigh and Lawrence will be joined by a design engineer, a board fabrication expert, and an EMS expert who have found a way to collaborate and bring a product from idea to realization in 30 days</p>",
+            "filters": [
+                {
+                    "id": 19753,
+                    "tags": [
+                        59684,
+                        59685,
+                        59688,
+                        59690,
+                        59691
+                    ]
+                }
+            ],
+            "speakers": [
+                {
+                    "speakerId": 692972,
+                    "role": "Speaker"
+                },
+                {
+                    "speakerId": 728525,
+                    "role": "Speaker"
+                }
+            ],
+            "moderators": [],
+            "sponsors": [
+                266723,
+                266724
+            ],
+            "sponsorsTitle": "Featuring:",
+            "attachments": [],
+            "backgroundColor": "rgba(255, 255, 255, 0.25)",
+            "allowRating": false,
+            "interestedIn": [],
+            "associatedContacts": {
+                "contactIds": [],
+                "contactListIds": []
+            },
+            "registration": true,
+            "registrationVisibility": true,
+            "registrationCapacityEnable": false,
+            "registrationFull": false,
+            "exclude": false,
+            "private": false,
+            "enableVirtualSession": true,
+            "enableRecordingSession": true,
+            "virtualSessionRecordingState": "DISABLED",
+            "recordingIsReady": false,
+            "recordingSession": {
+                "id": 26118,
+                "accountId": 134725,
+                "eventId": 233058,
+                "sessionId": 376155,
+                "broadcastRecording": true,
+                "recordingPrimaryAssetType": "CUSTOM",
+                "recordingAuthorization": [
+                    {
+                        "authorizationType": "TICKET_TYPE",
+                        "authorizationValue": [
+                            142775
+                        ]
+                    }
+                ],
+                "customAssetId": 72545,
+                "recordingIsReady": true
+            }
+        },
+        {
+            "id": 376158,
+            "importId": "Zblf3BCENYLAH",
+            "eventId": 233058,
+            "title": "Exploring Rigid / Flex Designs with Altium Designer",
+            "hidden": false,
+            "startDate": 1603152000000,
+            "endDate": 1603238399000,
+            "startMinute": 705,
+            "endMinute": 765,
+            "description": "There are a number of considerations that should be taken into account when designing a Rigid/Flex PCB. This talk will address the major parts of design including setup and Configuring the PCB’s Rigid/Flex sections.",
+            "descriptionHtml": "There are a number of considerations that should be taken into account when designing a Rigid/Flex PCB. This talk will address the major parts of design including setup and Configuring the PCB’s Rigid/Flex sections.",
+            "filters": [
+                {
+                    "id": 19753,
+                    "tags": [
+                        59684,
+                        59687
+                    ]
+                }
+            ],
+            "speakers": [
+                {
+                    "speakerId": 842341
+                }
+            ],
+            "moderators": [],
+            "sponsors": [
+                266724
+            ],
+            "sponsorsTitle": "Featuring:",
+            "attachments": [],
+            "allowRating": false,
+            "interestedIn": [],
+            "associatedContacts": {
+                "contactIds": [],
+                "contactListIds": []
+            },
+            "registration": true,
+            "registrationVisibility": true,
+            "registrationCapacityEnable": false,
+            "registrationCapacity": 100,
+            "registrationFull": false,
+            "exclude": false,
+            "private": false,
+            "enableVirtualSession": true,
+            "enableRecordingSession": true,
+            "virtualSessionRecordingState": "DISABLED",
+            "recordingIsReady": false,
+            "recordingSession": {
+                "id": 26119,
+                "accountId": 134725,
+                "eventId": 233058,
+                "sessionId": 376158,
+                "broadcastRecording": true,
+                "recordingPrimaryAssetType": "CUSTOM",
+                "recordingAuthorization": [
+                    {
+                        "authorizationType": "TICKET_TYPE",
+                        "authorizationValue": [
+                            142775
+                        ]
+                    }
+                ],
+                "customAssetId": 72310,
+                "recordingIsReady": true
+            }
+        },
+        {
+            "id": 376157,
+            "importId": "8iiP9PLUNcx5Y",
+            "eventId": 233058,
+            "title": "Addressing the Challenges of Design Rule Creation and Constraints",
+            "hidden": false,
+            "startDate": 1603152000000,
+            "endDate": 1603238399000,
+            "startMinute": 780,
+            "endMinute": 840,
+            "description": "Creating proper rules to drive the PCB layout can be a challenge. In this talk, we will explore Rule Creation and Verification, as well as a sneak, peek at what is coming.",
+            "descriptionHtml": "Creating proper rules to drive the PCB layout can be a challenge. In this talk, we will explore Rule Creation and Verification, as well as a sneak, peek at what is coming.",
+            "filters": [
+                {
+                    "id": 19753,
+                    "tags": [
+                        59684,
+                        59691
+                    ]
+                }
+            ],
+            "speakers": [
+                {
+                    "speakerId": 842332
+                }
+            ],
+            "moderators": [],
+            "sponsors": [
+                266724
+            ],
+            "sponsorsTitle": "Featuring:",
+            "attachments": [],
+            "allowRating": false,
+            "interestedIn": [],
+            "associatedContacts": {
+                "contactIds": [],
+                "contactListIds": []
+            },
+            "registration": true,
+            "registrationVisibility": true,
+            "registrationCapacityEnable": false,
+            "registrationCapacity": 100,
+            "registrationFull": false,
+            "exclude": false,
+            "private": false,
+            "enableVirtualSession": true,
+            "enableRecordingSession": true,
+            "virtualSessionRecordingState": "DISABLED",
+            "recordingIsReady": false,
+            "recordingSession": {
+                "id": 26120,
+                "accountId": 134725,
+                "eventId": 233058,
+                "sessionId": 376157,
+                "broadcastRecording": true,
+                "recordingPrimaryAssetType": "CUSTOM",
+                "recordingAuthorization": [
+                    {
+                        "authorizationType": "TICKET_TYPE",
+                        "authorizationValue": [
+                            142775
+                        ]
+                    }
+                ],
+                "customAssetId": 72278,
+                "recordingIsReady": true
+            }
+        },
+        {
+            "id": 409113,
+            "importId": "yGPH9c2p3rhaY",
+            "eventId": 233058,
+            "title": "Meet & Greet - Robert Feranec",
+            "hidden": false,
+            "startDate": 1603152000000,
+            "endDate": 1603238399000,
+            "startMinute": 780,
+            "endMinute": 840,
+            "description": "Join the AltiumLive Community and meet Robert Feranec in a one-hour Meet and Greet.",
+            "descriptionHtml": "<p>Join the AltiumLive Community and meet Robert Feranec in a one-hour Meet and Greet.</p>",
+            "filters": [],
+            "locationId": 28428,
+            "sublocationId": 16232,
+            "speakers": [
+                {
+                    "speakerId": 878282
+                }
+            ],
+            "moderators": [],
+            "sponsors": [
+                266722
+            ],
+            "sponsorsTitle": "Hosted on:",
+            "attachments": [],
+            "backgroundColor": "rgba(114,137,218,0.07)",
+            "allowRating": false,
+            "interestedIn": [],
+            "associatedContacts": {
+                "contactIds": [],
+                "contactListIds": []
+            },
+            "registration": false,
+            "registrationVisibility": false,
+            "registrationCapacityEnable": false,
+            "registrationFull": false,
+            "exclude": false,
+            "private": false,
+            "enableVirtualSession": false,
+            "enableRecordingSession": false,
+            "virtualSessionRecordingState": "DISABLED",
+            "recordingIsReady": false
+        },
+        {
+            "id": 409114,
+            "importId": "l0D9JywAxcM2N",
+            "eventId": 233058,
+            "title": "Meet & Greet - Project MARCH",
+            "hidden": false,
+            "startDate": 1603152000000,
+            "endDate": 1603238399000,
+            "startMinute": 840,
+            "endMinute": 900,
+            "description": "Join the AltiumLive Community and meet the Project MARCH Team in a one-hour Meet and Greet.",
+            "descriptionHtml": "<p>Join the AltiumLive Community and meet the Project MARCH Team in a one-hour Meet and Greet.</p>",
+            "filters": [],
+            "locationId": 28428,
+            "sublocationId": 16232,
+            "speakers": [],
+            "moderators": [],
+            "sponsors": [
+                266722
+            ],
+            "sponsorsTitle": "Hosted on:",
+            "attachments": [],
+            "backgroundColor": "rgba(114,137,218,0.07)",
+            "allowRating": false,
+            "interestedIn": [],
+            "associatedContacts": {
+                "contactIds": [],
+                "contactListIds": []
+            },
+            "registration": false,
+            "registrationVisibility": false,
+            "registrationCapacityEnable": false,
+            "registrationFull": false,
+            "exclude": false,
+            "private": false,
+            "enableVirtualSession": false,
+            "enableRecordingSession": false,
+            "virtualSessionRecordingState": "DISABLED",
+            "recordingIsReady": false
+        },
+        {
+            "id": 409120,
+            "importId": "YppwBG7kBFeup",
+            "eventId": 233058,
+            "title": "Session Q&A - Exploring Rigid / Flex Designs with Altium Designer ",
+            "hidden": false,
+            "startDate": 1603152000000,
+            "endDate": 1603238399000,
+            "startMinute": 840,
+            "endMinute": 900,
+            "filters": [
+                {
+                    "id": 19753,
+                    "tags": [
+                        59687
+                    ]
+                }
+            ],
+            "locationId": 28428,
+            "sublocationId": 16257,
+            "speakers": [
+                {
+                    "speakerId": 842341
+                }
+            ],
+            "moderators": [],
+            "sponsors": [
+                266722
+            ],
+            "sponsorsTitle": "Hosted on:",
+            "attachments": [],
+            "backgroundColor": "rgba(114,137,218,0.07)",
+            "allowRating": false,
+            "interestedIn": [],
+            "associatedContacts": {
+                "contactIds": [],
+                "contactListIds": []
+            },
+            "registration": false,
+            "registrationVisibility": false,
+            "registrationCapacityEnable": false,
+            "registrationFull": false,
+            "exclude": false,
+            "private": false,
+            "enableVirtualSession": false,
+            "enableRecordingSession": false,
+            "virtualSessionRecordingState": "DISABLED",
+            "recordingIsReady": false
+        },
+        {
+            "id": 376156,
+            "importId": "Sfy0qwGFWcAgX",
+            "eventId": 233058,
+            "title": "Engineering Collaboration on AWS Cloud: Use-Cases at Amazon",
+            "hidden": false,
+            "startDate": 1603152000000,
+            "endDate": 1603238399000,
+            "startMinute": 870,
+            "endMinute": 960,
+            "description": "System and Design Engineers around the world are seeking higher levels of security and compliance while supporting and collaborating with their customers and supply chain partners. Increasingly, these users have turned to AWS Cloud to develop and manage their most sensitive IP, including export-controlled and military applications. At Amazon, our support for customers in regulated industries, and in thousands of government agencies, means that we keep security as a top priority. As a result, the world's top technology companies and their commercial and government customers trust AWS for their most sensitive design and engineering applications and have successfully adopted and leveraged the power and security of AWS Cloud -- including Altium.",
+            "descriptionHtml": "<p>System and Design Engineers around the world are seeking higher levels of security and compliance while supporting and collaborating with their customers and supply chain partners. Increasingly, these users have turned to AWS Cloud to develop and manage their most sensitive IP, including export-controlled and military applications. At Amazon, our support for customers in regulated industries, and in thousands of government agencies, means that we keep security as a top priority. As a result, the world's top technology companies and their commercial and government customers trust AWS for their most sensitive design and engineering applications and have successfully adopted and leveraged the power and security of AWS Cloud -- including Altium.</p>",
+            "filters": [
+                {
+                    "id": 19753,
+                    "tags": [
+                        59685,
+                        59688
+                    ]
+                }
+            ],
+            "speakers": [
+                {
+                    "speakerId": 756490
+                }
+            ],
+            "moderators": [],
+            "sponsors": [],
+            "sponsorsTitle": "Sponsored By:",
+            "attachments": [],
+            "allowRating": false,
+            "interestedIn": [],
+            "associatedContacts": {
+                "contactIds": [],
+                "contactListIds": []
+            },
+            "registration": true,
+            "registrationVisibility": true,
+            "registrationCapacityEnable": false,
+            "registrationFull": false,
+            "exclude": false,
+            "private": false,
+            "enableVirtualSession": true,
+            "enableRecordingSession": true,
+            "virtualSessionRecordingState": "DISABLED",
+            "recordingIsReady": false,
+            "recordingSession": {
+                "id": 26121,
+                "accountId": 134725,
+                "eventId": 233058,
+                "sessionId": 376156,
+                "broadcastRecording": true,
+                "recordingPrimaryAssetType": "ORIGINAL",
+                "recordingAuthorization": [
+                    {
+                        "authorizationType": "TICKET_TYPE",
+                        "authorizationValue": [
+                            142775
+                        ]
+                    }
+                ],
+                "recordingIsReady": false
+            }
+        },
+        {
+            "id": 409123,
+            "importId": "DKoXUakHL2CSa",
+            "eventId": 233058,
+            "title": "Session Q&A - Addressing the Challenges of Design Rule Creation and Constraints",
+            "hidden": false,
+            "startDate": 1603152000000,
+            "endDate": 1603238399000,
+            "startMinute": 900,
+            "endMinute": 960,
+            "filters": [
+                {
+                    "id": 19753,
+                    "tags": [
+                        59684,
+                        59689,
+                        59690
+                    ]
+                }
+            ],
+            "locationId": 28428,
+            "sublocationId": 16257,
+            "speakers": [
+                {
+                    "speakerId": 842332
+                }
+            ],
+            "moderators": [],
+            "sponsors": [
+                266722
+            ],
+            "sponsorsTitle": "Hosted on:",
+            "attachments": [],
+            "backgroundColor": "rgba(114,137,218,0.07)",
+            "allowRating": false,
+            "interestedIn": [],
+            "associatedContacts": {
+                "contactIds": [],
+                "contactListIds": []
+            },
+            "registration": false,
+            "registrationVisibility": false,
+            "registrationCapacityEnable": false,
+            "registrationFull": false,
+            "exclude": false,
+            "private": false,
+            "enableVirtualSession": false,
+            "enableRecordingSession": false,
+            "virtualSessionRecordingState": "DISABLED",
+            "recordingIsReady": false
+        },
+        {
+            "id": 376160,
+            "importId": "DLnCAzihCFaUg",
+            "eventId": 233058,
+            "title": "Happy Hour - Engineering and Beer",
+            "hidden": false,
+            "startDate": 1603152000000,
+            "endDate": 1603238399000,
+            "startMinute": 960,
+            "endMinute": 1020,
+            "description": "Please join Eli Hughes, Co-Founder of TZERO, and craft brewer Tin Whiskers as they talk about the unlikely yet amazing relationship between craft brewing and engineering.",
+            "descriptionHtml": "<p>Please join Eli Hughes, Co-Founder of <a href=\"http://tzerobrew.com\">TZERO</a>, and craft brewer Tin Whiskers as they talk about the unlikely yet amazing relationship between craft brewing and engineering.</p>",
+            "filters": [],
+            "speakers": [
+                {
+                    "speakerId": 700787
+                }
+            ],
+            "moderators": [
+                7415580,
+                7465679
+            ],
+            "sponsors": [],
+            "sponsorsTitle": "Sponsored By:",
+            "attachments": [],
+            "allowRating": false,
+            "interestedIn": [],
+            "associatedContacts": {
+                "contactIds": [],
+                "contactListIds": []
+            },
+            "registration": true,
+            "registrationVisibility": true,
+            "registrationCapacityEnable": true,
+            "registrationCapacity": 300,
+            "registrationFull": false,
+            "exclude": false,
+            "private": false,
+            "enableVirtualSession": true,
+            "enableRecordingSession": true,
+            "virtualSessionRecordingState": "DISABLED",
+            "recordingIsReady": false,
+            "recordingSession": {
+                "id": 26123,
+                "accountId": 134725,
+                "eventId": 233058,
+                "sessionId": 376160,
+                "broadcastRecording": false,
+                "recordingPrimaryAssetType": "ORIGINAL",
+                "recordingAuthorization": [
+                    {
+                        "authorizationType": "TICKET_TYPE",
+                        "authorizationValue": [
+                            142775
+                        ]
+                    }
+                ],
+                "originalAssetId": 72661,
+                "recordingIsReady": true
+            }
+        },
+        {
+            "id": 412514,
+            "importId": "gDuGCgamodZpc",
+            "eventId": 233058,
+            "title": "Day 2 - Kick off",
+            "hidden": false,
+            "startDate": 1603238400000,
+            "endDate": 1603324799000,
+            "startMinute": 525,
+            "endMinute": 535,
+            "filters": [],
+            "speakers": [
+                {
+                    "speakerId": 692972
+                }
+            ],
+            "moderators": [],
+            "sponsors": [],
+            "sponsorsTitle": "Sponsored By:",
+            "attachments": [],
+            "allowRating": false,
+            "interestedIn": [],
+            "associatedContacts": {
+                "contactIds": [],
+                "contactListIds": []
+            },
+            "registration": false,
+            "registrationVisibility": false,
+            "registrationCapacityEnable": false,
+            "registrationFull": false,
+            "exclude": false,
+            "private": false,
+            "enableVirtualSession": true,
+            "enableRecordingSession": false,
+            "virtualSessionRecordingState": "DISABLED",
+            "recordingIsReady": false
+        },
+        {
+            "id": 376166,
+            "importId": "JuVWKAc0AvKsZ",
+            "eventId": 233058,
+            "title": "Overview of Circuit Simulation in Altium Designer",
+            "hidden": false,
+            "startDate": 1603238400000,
+            "endDate": 1603324799000,
+            "startMinute": 540,
+            "endMinute": 600,
+            "description": "Join us as we look at Spice simulation within the unified Altium Designer platform. We will cover how to configure and run circuit simulations, configure component models, and view simulation results in Altium Designer.",
+            "descriptionHtml": "Join us as we look at Spice simulation within the unified Altium Designer platform. We will cover how to configure and run circuit simulations, configure component models, and view simulation results in Altium Designer.",
+            "filters": [
+                {
+                    "id": 19753,
+                    "tags": [
+                        59684,
+                        59686,
+                        59691
+                    ]
+                }
+            ],
+            "speakers": [
+                {
+                    "speakerId": 842333,
+                    "role": ""
+                }
+            ],
+            "moderators": [],
+            "sponsors": [
+                266724
+            ],
+            "sponsorsTitle": "Featuring:",
+            "attachments": [],
+            "allowRating": false,
+            "interestedIn": [],
+            "associatedContacts": {
+                "contactIds": [],
+                "contactListIds": []
+            },
+            "registration": true,
+            "registrationVisibility": true,
+            "registrationCapacityEnable": false,
+            "registrationFull": false,
+            "exclude": false,
+            "private": false,
+            "enableVirtualSession": true,
+            "enableRecordingSession": true,
+            "virtualSessionRecordingState": "DISABLED",
+            "recordingIsReady": false,
+            "recordingSession": {
+                "id": 26124,
+                "accountId": 134725,
+                "eventId": 233058,
+                "sessionId": 376166,
+                "broadcastRecording": false,
+                "recordingPrimaryAssetType": "CUSTOM",
+                "recordingAuthorization": [
+                    {
+                        "authorizationType": "TICKET_TYPE",
+                        "authorizationValue": [
+                            142775
+                        ]
+                    }
+                ],
+                "customAssetId": 73175,
+                "recordingIsReady": false
+            }
+        },
+        {
+            "id": 376167,
+            "importId": "J20fYl1tlUKv5",
+            "eventId": 233058,
+            "title": "Panel Discussion - OSV: Working Together to Save Lives",
+            "hidden": false,
+            "startDate": 1603238400000,
+            "endDate": 1603324799000,
+            "startMinute": 540,
+            "endMinute": 600,
+            "description": "Dugan Karnazes, Chris Denny, and Rob Cooke discuss their experience working on the Open Source Ventilator project. This global coalition of volunteer engineers, manufacturers, companies, and hospital systems developed and released a low cost and completely open ventilator design to address the shortages presented by the COVID-19 pandemic. Representint the design, assembly, and PCB fabrication teams respectively, Dugan, Chris, and Rob share how they used digital tools to organize a global team, avoid manufacturing problems early, and get to physical boards in record time. Come hear what happens when the normal rules don't apply, people come together, and the laughs along the way.",
+            "descriptionHtml": "<p>Dugan Karnazes, Chris Denny, and Rob Cooke discuss their experience working on the Open Source Ventilator project. This global coalition of volunteer engineers, manufacturers, companies, and hospital systems developed and released a low cost and completely open ventilator design to address the shortages presented by the COVID-19 pandemic. Representint the design, assembly, and PCB fabrication teams respectively, Dugan, Chris, and Rob share how they used digital tools to organize a global team, avoid manufacturing problems early, and get to physical boards in record time. Come hear what happens when the normal rules don't apply, people come together, and the laughs along the way.</p>",
+            "filters": [
+                {
+                    "id": 19753,
+                    "tags": [
+                        59684,
+                        59685,
+                        59688,
+                        59690
+                    ]
+                }
+            ],
+            "speakers": [
+                {
+                    "speakerId": 756482
+                },
+                {
+                    "speakerId": 756488
+                },
+                {
+                    "speakerId": 756483
+                }
+            ],
+            "moderators": [],
+            "sponsors": [],
+            "sponsorsTitle": "Sponsored By:",
+            "attachments": [],
+            "allowRating": false,
+            "interestedIn": [],
+            "associatedContacts": {
+                "contactIds": [],
+                "contactListIds": []
+            },
+            "registration": true,
+            "registrationVisibility": true,
+            "registrationCapacityEnable": false,
+            "registrationFull": false,
+            "exclude": false,
+            "private": false,
+            "enableVirtualSession": true,
+            "enableRecordingSession": true,
+            "virtualSessionRecordingState": "DISABLED",
+            "recordingIsReady": false,
+            "recordingSession": {
+                "id": 27607,
+                "accountId": 134725,
+                "eventId": 233058,
+                "sessionId": 376167,
+                "broadcastRecording": false,
+                "recordingPrimaryAssetType": "CUSTOM",
+                "recordingAuthorization": [
+                    {
+                        "authorizationType": "TICKET_TYPE",
+                        "authorizationValue": [
+                            142775
+                        ]
+                    }
+                ],
+                "customAssetId": 72228,
+                "recordingIsReady": true
+            }
+        },
+        {
+            "id": 411835,
+            "importId": "PAl0ufLmcC8JZ",
+            "eventId": 233058,
+            "title": "Session Q&A - Overview of Circuit Simulation in Altium Designer",
+            "hidden": false,
+            "startDate": 1603238400000,
+            "endDate": 1603324799000,
+            "startMinute": 600,
+            "endMinute": 660,
+            "filters": [],
+            "speakers": [
+                {
+                    "speakerId": 842333
+                }
+            ],
+            "moderators": [],
+            "sponsors": [
+                266722
+            ],
+            "sponsorsTitle": "Hosted on:",
+            "attachments": [],
+            "backgroundColor": "rgba(114,137,218,0.07)",
+            "allowRating": false,
+            "interestedIn": [],
+            "associatedContacts": {
+                "contactIds": [],
+                "contactListIds": []
+            },
+            "registration": false,
+            "registrationVisibility": false,
+            "registrationCapacityEnable": false,
+            "registrationFull": false,
+            "exclude": false,
+            "private": false,
+            "enableVirtualSession": false,
+            "enableRecordingSession": false,
+            "virtualSessionRecordingState": "DISABLED",
+            "recordingIsReady": false
+        },
+        {
+            "id": 376168,
+            "importId": "e90MOdNUwPnwj",
+            "eventId": 233058,
+            "title": "Würth Virtual Factory Tour",
+            "hidden": false,
+            "startDate": 1603238400000,
+            "endDate": 1603324799000,
+            "startMinute": 600,
+            "endMinute": 675,
+            "description": "Join us, as we take a look inside Würth Electronik, Niedernhall, Germany, a global PCB manufacturing facility. During this virtual tour, you will see first-hand how circuit boards are made in a way that will help you make informed design for manufacturing decisions to ensure your success. Passcode to enter the Session: AltiumLive",
+            "descriptionHtml": "<p>Join us, as we take a look inside Würth Electronik, Niedernhall, Germany, a global PCB manufacturing facility. During this virtual tour, you will see first-hand how circuit boards are made in a way that will help you make informed design for manufacturing decisions to ensure your success. Passcode to enter the Session: AltiumLive</p>",
+            "filters": [
+                {
+                    "id": 19753,
+                    "tags": [
+                        69954
+                    ]
+                }
+            ],
+            "locationId": 28528,
+            "sublocationId": 16338,
+            "speakers": [
+                {
+                    "speakerId": 878171
+                }
+            ],
+            "moderators": [
+                2584305,
+                5269690
+            ],
+            "sponsors": [
+                266725
+            ],
+            "sponsorsTitle": "Sponsored By:",
+            "attachments": [],
+            "allowRating": false,
+            "interestedIn": [],
+            "associatedContacts": {
+                "contactIds": [],
+                "contactListIds": []
+            },
+            "registration": true,
+            "registrationVisibility": true,
+            "registrationCapacityEnable": false,
+            "registrationCapacity": 300,
+            "registrationFull": false,
+            "exclude": false,
+            "private": false,
+            "enableVirtualSession": true,
+            "enableRecordingSession": true,
+            "virtualSessionRecordingState": "DISABLED",
+            "recordingIsReady": false,
+            "recordingSession": {
+                "id": 26128,
+                "accountId": 134725,
+                "eventId": 233058,
+                "sessionId": 376168,
+                "broadcastRecording": false,
+                "recordingPrimaryAssetType": "ORIGINAL",
+                "recordingAuthorization": [
+                    {
+                        "authorizationType": "TICKET_TYPE",
+                        "authorizationValue": [
+                            142775
+                        ]
+                    }
+                ],
+                "recordingIsReady": false
+            }
+        },
+        {
+            "id": 381039,
+            "importId": "8CFb7BOfXXXCI",
+            "eventId": 233058,
+            "title": "Connect and Mingle",
+            "hidden": false,
+            "startDate": 1603238400000,
+            "endDate": 1603324799000,
+            "startMinute": 675,
+            "endMinute": 780,
+            "description": "•Join Altium technical experts for product demos \n•Meet the sponsors \n•Or... just hang out and get to to know fellow attendees in our virtual environment hosted on Discord\n",
+            "descriptionHtml": "<ul><li>Join Altium technical experts for product demos&nbsp;</li><li>Meet the sponsors&nbsp;</li><li>Or... just hang out and get to to know fellow attendees in our virtual environment hosted on Discord</li></ul>",
+            "filters": [],
+            "speakers": [],
+            "moderators": [],
+            "sponsors": [],
+            "sponsorsTitle": "Sponsored By:",
+            "attachments": [],
+            "allowRating": false,
+            "interestedIn": [],
+            "associatedContacts": {
+                "contactIds": [],
+                "contactListIds": []
+            },
+            "registration": false,
+            "registrationVisibility": false,
+            "registrationCapacityEnable": false,
+            "registrationFull": false,
+            "exclude": false,
+            "private": false,
+            "enableVirtualSession": false,
+            "enableRecordingSession": false,
+            "virtualSessionRecordingState": "DISABLED",
+            "recordingIsReady": false
+        },
+        {
+            "id": 376163,
+            "importId": "Sq7hKnQmVqC40",
+            "eventId": 233058,
+            "title": "\"You must Unlearn what You have Learned\"",
+            "hidden": false,
+            "startDate": 1603238400000,
+            "endDate": 1603324799000,
+            "startMinute": 780,
+            "endMinute": 855,
+            "description": "Yoda’s advice applies just as well to some aspect of circuit board design as it does to mastering the Force. There are many myths and myth-conceptions about the best design practices for circuit board layout which are “legacy code”. They have been with us in training manuals, in examples, and in reference designs. Once inserted into a design, everyone seems to think it must be the right way of doing design. I will show you five myth-conceptions and why you should unlearn what you have learned as a recommended design feature, such as using copper pours, power planes, avoiding 90 deg bends, three different value decoupling capacitors, and using split ground planes.",
+            "descriptionHtml": "Yoda’s advice applies just as well to some aspect of circuit board design as it does to mastering the Force. There are many myths and myth-conceptions about the best design practices for circuit board layout which are “legacy code”. They have been with us in training manuals, in examples, and in reference designs. Once inserted into a design, everyone seems to think it must be the right way of doing design. I will show you five myth-conceptions and why you should unlearn what you have learned as a recommended design feature, such as using copper pours, power planes, avoiding 90 deg bends, three different value decoupling capacitors, and using split ground planes.",
+            "filters": [
+                {
+                    "id": 19753,
+                    "tags": [
+                        59690
+                    ]
+                }
+            ],
+            "speakers": [
+                {
+                    "speakerId": 700790,
+                    "role": "Keynote"
+                }
+            ],
+            "moderators": [
+                2142155
+            ],
+            "sponsors": [],
+            "sponsorsTitle": "Sponsored By:",
+            "attachments": [],
+            "allowRating": false,
+            "interestedIn": [],
+            "associatedContacts": {
+                "contactIds": [],
+                "contactListIds": []
+            },
+            "registration": true,
+            "registrationVisibility": true,
+            "registrationCapacityEnable": false,
+            "registrationFull": false,
+            "exclude": false,
+            "private": false,
+            "enableVirtualSession": true,
+            "enableRecordingSession": true,
+            "virtualSessionRecordingState": "DISABLED",
+            "recordingIsReady": false,
+            "recordingSession": {
+                "id": 26129,
+                "accountId": 134725,
+                "eventId": 233058,
+                "sessionId": 376163,
+                "broadcastRecording": false,
+                "recordingPrimaryAssetType": "ORIGINAL",
+                "recordingAuthorization": [
+                    {
+                        "authorizationType": "TICKET_TYPE",
+                        "authorizationValue": [
+                            142775
+                        ]
+                    }
+                ],
+                "recordingIsReady": false
+            }
+        },
+        {
+            "id": 376164,
+            "importId": "bwSapvJlpILht",
+            "eventId": 233058,
+            "title": "Panel discussion: 150 person-years of expertise in SI and PI design, simulation and measurement",
+            "hidden": false,
+            "startDate": 1603238400000,
+            "endDate": 1603324799000,
+            "startMinute": 870,
+            "endMinute": 945,
+            "description": "Join us for a rousing discussion with four industry experts on their tips and tricks for successfully navigating the complex world of reducing signal integrity and power integrity problems in circuit board designs. We have distinguished panelists, Istvan Novak, Steve Sandler, Rula Bakleh, and Heidi Barnes. Eric Bogatin will be our “Larry King” and lead the panel discussion to hear some of the horror stories and success stories from which each expert learned valuable lessons. Don’t miss this chance to hear the “rest of the story.”",
+            "descriptionHtml": "Join us for a rousing discussion with four industry experts on their tips and tricks for successfully navigating the complex world of reducing signal integrity and power integrity problems in circuit board designs. We have distinguished panelists, Istvan Novak, Steve Sandler, Rula Bakleh, and Heidi Barnes. Eric Bogatin will be our “Larry King” and lead the panel discussion to hear some of the horror stories and success stories from which each expert learned valuable lessons. Don’t miss this chance to hear the “rest of the story.”",
+            "filters": [
+                {
+                    "id": 19753,
+                    "tags": [
+                        59686,
+                        59691
+                    ]
+                }
+            ],
+            "speakers": [
+                {
+                    "speakerId": 700790,
+                    "role": "Moderator"
+                },
+                {
+                    "speakerId": 756486,
+                    "role": "Panelist"
+                },
+                {
+                    "speakerId": 715145,
+                    "role": "Panelist"
+                },
+                {
+                    "speakerId": 756485,
+                    "role": "Panelist"
+                },
+                {
+                    "speakerId": 756489,
+                    "role": "Panelist"
+                }
+            ],
+            "moderators": [],
+            "sponsors": [],
+            "sponsorsTitle": "Sponsored By:",
+            "attachments": [],
+            "allowRating": false,
+            "interestedIn": [],
+            "associatedContacts": {
+                "contactIds": [],
+                "contactListIds": []
+            },
+            "registration": true,
+            "registrationVisibility": true,
+            "registrationCapacityEnable": false,
+            "registrationFull": false,
+            "exclude": false,
+            "private": false,
+            "enableVirtualSession": true,
+            "enableRecordingSession": true,
+            "virtualSessionRecordingState": "DISABLED",
+            "recordingIsReady": false,
+            "recordingSession": {
+                "id": 26130,
+                "accountId": 134725,
+                "eventId": 233058,
+                "sessionId": 376164,
+                "broadcastRecording": false,
+                "recordingPrimaryAssetType": "ORIGINAL",
+                "recordingAuthorization": [
+                    {
+                        "authorizationType": "TICKET_TYPE",
+                        "authorizationValue": [
+                            142775
+                        ]
+                    }
+                ],
+                "recordingIsReady": false
+            }
+        },
+        {
+            "id": 376165,
+            "importId": "Z4weGsKVGUBdF",
+            "eventId": 233058,
+            "title": "Simulation as an Essential Tool",
+            "hidden": false,
+            "startDate": 1603238400000,
+            "endDate": 1603324799000,
+            "startMinute": 960,
+            "endMinute": 1050,
+            "description": "This session presents the essential role of simulation in the design and development ecosystem. The speaker draws on his own experience and shares some of his own simulation and the results to answer the fundamental questions. WHY do I need to simulate? WHAT should I simulate? And what is the recommended workflow for efficient simulation? With a focus on SPICE simulation, some of the limitations of SPICE are also discussed.",
+            "descriptionHtml": "<p>This session presents the essential role of simulation in the design and development ecosystem. The speaker draws on his own experience and shares some of his own simulation and the results to answer the fundamental questions. WHY do I need to simulate? WHAT should I simulate? And what is the recommended workflow for efficient simulation? With a focus on SPICE simulation, some of the limitations of SPICE are also discussed.</p>",
+            "filters": [
+                {
+                    "id": 19753,
+                    "tags": [
+                        59686,
+                        59691
+                    ]
+                }
+            ],
+            "speakers": [
+                {
+                    "speakerId": 715145,
+                    "role": "Keynote"
+                }
+            ],
+            "moderators": [
+                2142155
+            ],
+            "sponsors": [],
+            "sponsorsTitle": "Sponsored By:",
+            "attachments": [],
+            "allowRating": false,
+            "interestedIn": [],
+            "associatedContacts": {
+                "contactIds": [],
+                "contactListIds": []
+            },
+            "registration": true,
+            "registrationVisibility": true,
+            "registrationCapacityEnable": false,
+            "registrationFull": false,
+            "exclude": false,
+            "private": false,
+            "enableVirtualSession": true,
+            "enableRecordingSession": true,
+            "virtualSessionRecordingState": "DISABLED",
+            "recordingIsReady": false,
+            "recordingSession": {
+                "id": 26132,
+                "accountId": 134725,
+                "eventId": 233058,
+                "sessionId": 376165,
+                "broadcastRecording": false,
+                "recordingPrimaryAssetType": "ORIGINAL",
+                "recordingAuthorization": [
+                    {
+                        "authorizationType": "TICKET_TYPE",
+                        "authorizationValue": [
+                            142775
+                        ]
+                    }
+                ],
+                "recordingIsReady": false
+            }
+        },
+        {
+            "id": 408889,
+            "importId": "I97oEi4Oa3PbL",
+            "eventId": 233058,
+            "title": "Meet & Greet - Joe Grand",
+            "hidden": false,
+            "startDate": 1603238400000,
+            "endDate": 1603324799000,
+            "startMinute": 1020,
+            "endMinute": 1080,
+            "description": "Join the AltiumLive Community and meet Joe Grand in a one-hour Meet and Greet.",
+            "descriptionHtml": "<p>Join the AltiumLive Community and meet Joe Grand in a one-hour Meet and Greet.</p>",
+            "filters": [],
+            "locationId": 28428,
+            "sublocationId": 16232,
+            "speakers": [
+                {
+                    "speakerId": 879599
+                }
+            ],
+            "moderators": [],
+            "sponsors": [
+                266722
+            ],
+            "sponsorsTitle": "Hosted on:",
+            "attachments": [],
+            "backgroundColor": "rgba(114,137,218,0.07)",
+            "allowRating": false,
+            "interestedIn": [],
+            "associatedContacts": {
+                "contactIds": [],
+                "contactListIds": []
+            },
+            "registration": false,
+            "registrationVisibility": false,
+            "registrationCapacityEnable": false,
+            "registrationFull": false,
+            "exclude": false,
+            "private": false,
+            "enableVirtualSession": false,
+            "enableRecordingSession": false,
+            "virtualSessionRecordingState": "DISABLED",
+            "recordingIsReady": false
+        },
+        {
+            "id": 376173,
+            "importId": "ZxGDz9TBw2Mur",
+            "eventId": 233058,
+            "title": "Leveraging Engineering Expertise for Supply Chain Success",
+            "hidden": false,
+            "startDate": 1603324800000,
+            "endDate": 1603411199000,
+            "startMinute": 540,
+            "endMinute": 600,
+            "description": "Most engineers will tell you that they are most effective when they are able to focus on the technical bits parts of product design. But, in recent years, times to market have decreased, supply chain complexity has increased, and the interplays between the electrical and non-electrical parts of most products have become exceedingly complex. To meet these challenges effectively, engineers and product designers must become comfortable interleaving business, supply chain, and sourcing responsibilities into the technical conversations that they are already having with their vendors and manufacturers. When not doing board design, Jeremy spends a lot of time focused on supply chain optimization, pricing negotiations, and program management. Pulling from that experience, Jeremy will explain how significant price, performance, and timeline benefits can be realized by expanding your skill sets into these areas, and actively participating in them, alongside your colleagues who may be focused on them. Jeremy will provide specific examples of when and how interacting more closely with your component distributors and manufacturers earlier in the design process can save you time in the long run, despite it sometimes feeling like it is \"distracting\" from the design work at hand.",
+            "descriptionHtml": "Most engineers will tell you that they are most effective when they are able to focus on the technical bits parts of product design. But, in recent years, times to market have decreased, supply chain complexity has increased, and the interplays between the electrical and non-electrical parts of most products have become exceedingly complex. To meet these challenges effectively, engineers and product designers must become comfortable interleaving business, supply chain, and sourcing responsibilities into the technical conversations that they are already having with their vendors and manufacturers. When not doing board design, Jeremy spends a lot of time focused on supply chain optimization, pricing negotiations, and program management. Pulling from that experience, Jeremy will explain how significant price, performance, and timeline benefits can be realized by expanding your skill sets into these areas, and actively participating in them, alongside your colleagues who may be focused on them. Jeremy will provide specific examples of when and how interacting more closely with your component distributors and manufacturers earlier in the design process can save you time in the long run, despite it sometimes feeling like it is &quot;distracting&quot; from the design work at hand.",
+            "filters": [
+                {
+                    "id": 19753,
+                    "tags": [
+                        59688,
+                        59690,
+                        69954
+                    ]
+                }
+            ],
+            "speakers": [
+                {
+                    "speakerId": 700795,
+                    "role": "Speaker"
+                }
+            ],
+            "moderators": [
+                2142155
+            ],
+            "sponsors": [],
+            "sponsorsTitle": "Sponsored By:",
+            "attachments": [],
+            "allowRating": false,
+            "interestedIn": [],
+            "associatedContacts": {
+                "contactIds": [],
+                "contactListIds": []
+            },
+            "registration": true,
+            "registrationVisibility": true,
+            "registrationCapacityEnable": false,
+            "registrationFull": false,
+            "exclude": false,
+            "private": false,
+            "enableVirtualSession": true,
+            "enableRecordingSession": true,
+            "virtualSessionRecordingState": "DISABLED",
+            "recordingIsReady": false,
+            "recordingSession": {
+                "id": 26134,
+                "accountId": 134725,
+                "eventId": 233058,
+                "sessionId": 376173,
+                "broadcastRecording": false,
+                "recordingPrimaryAssetType": "ORIGINAL",
+                "recordingAuthorization": [
+                    {
+                        "authorizationType": "TICKET_TYPE",
+                        "authorizationValue": [
+                            142775
+                        ]
+                    }
+                ],
+                "recordingIsReady": false
+            }
+        },
+        {
+            "id": 376172,
+            "importId": "Obic4fcq28VLY",
+            "eventId": 233058,
+            "title": "A Tour of the Routing and Tuning Capabilities of Altium Designer",
+            "hidden": false,
+            "startDate": 1603324800000,
+            "endDate": 1603411199000,
+            "startMinute": 615,
+            "endMinute": 675,
+            "description": "In this talk we will demonstrate the current routing and tuning features and capabilities of Altium Designer. In addition, a sneak peak at what is coming in Altium Designer 21.",
+            "descriptionHtml": "In this talk we will demonstrate the current routing and tuning features and capabilities of Altium Designer. In addition, a sneak peak at what is coming in Altium Designer 21.",
+            "filters": [
+                {
+                    "id": 19753,
+                    "tags": [
+                        59684,
+                        59691
+                    ]
+                }
+            ],
+            "speakers": [
+                {
+                    "speakerId": 842335
+                }
+            ],
+            "moderators": [],
+            "sponsors": [
+                266724
+            ],
+            "sponsorsTitle": "Featuring:",
+            "attachments": [],
+            "allowRating": false,
+            "interestedIn": [],
+            "associatedContacts": {
+                "contactIds": [],
+                "contactListIds": []
+            },
+            "registration": true,
+            "registrationVisibility": true,
+            "registrationCapacityEnable": false,
+            "registrationFull": false,
+            "exclude": false,
+            "private": false,
+            "enableVirtualSession": true,
+            "enableRecordingSession": true,
+            "virtualSessionRecordingState": "DISABLED",
+            "recordingIsReady": false,
+            "recordingSession": {
+                "id": 26135,
+                "accountId": 134725,
+                "eventId": 233058,
+                "sessionId": 376172,
+                "broadcastRecording": false,
+                "recordingPrimaryAssetType": "ORIGINAL",
+                "recordingAuthorization": [
+                    {
+                        "authorizationType": "TICKET_TYPE",
+                        "authorizationValue": [
+                            142775
+                        ]
+                    }
+                ],
+                "recordingIsReady": false
+            }
+        },
+        {
+            "id": 408862,
+            "importId": "pCqW07VwyU0Of",
+            "eventId": 233058,
+            "title": "Session Q&A - Thomas Schneider",
+            "hidden": false,
+            "startDate": 1603324800000,
+            "endDate": 1603411199000,
+            "startMinute": 675,
+            "endMinute": 735,
+            "filters": [
+                {
+                    "id": 19753,
+                    "tags": [
+                        59683,
+                        59690,
+                        59691
+                    ]
+                }
+            ],
+            "locationId": 28428,
+            "sublocationId": 16257,
+            "speakers": [
+                {
+                    "speakerId": 842335
+                }
+            ],
+            "moderators": [],
+            "sponsors": [
+                266722
+            ],
+            "sponsorsTitle": "Hosted on:",
+            "attachments": [],
+            "backgroundColor": "rgba(114,137,218,0.07)",
+            "allowRating": false,
+            "interestedIn": [],
+            "associatedContacts": {
+                "contactIds": [],
+                "contactListIds": []
+            },
+            "registration": false,
+            "registrationVisibility": false,
+            "registrationCapacityEnable": false,
+            "registrationFull": false,
+            "exclude": false,
+            "private": false,
+            "enableVirtualSession": false,
+            "enableRecordingSession": false,
+            "virtualSessionRecordingState": "DISABLED",
+            "recordingIsReady": false
+        },
+        {
+            "id": 376169,
+            "importId": "mtRl0IYzLbPXB",
+            "eventId": 233058,
+            "title": "Secrets of PCB Optimization",
+            "hidden": false,
+            "startDate": 1603324800000,
+            "endDate": 1603411199000,
+            "startMinute": 780,
+            "endMinute": 855,
+            "description": "Many engineers believe the cost of both bare PC boards and assemblies is purely a function board size, thickness, number of layers, spacing between features, etc. Part of that statement is true, but certainly not all of it. There are many things driving cost AND quality of both bare boards and assemblies, things like ‘where’ the copper is located, as opposed to density, parts placements, how the board is routed, balanced PCB stack-up, feature sizes, etc. \n\nThis one-hour session will discuss how to accomplish the goal of both low cost and high quality, with just a few simple concepts. Bottom line, when boards are not designed properly, fab and assembly houses Must make modifications to the boards, just to be able to produce them. Sometimes their mods cause the boards to malfunction. If we design correctly, this will not happen. This workshop is intended for PC board design engineers, electronic engineers and system engineers, as well as technicians and managers interested in Cost and Quality of PC boards.",
+            "descriptionHtml": "<p>Many engineers believe the cost of both bare PC boards and assemblies is purely a function board size, thickness, number of layers, spacing between features, etc. Part of that statement is true, but certainly not all of it. There are many things driving cost AND quality of both bare boards and assemblies, things like ‘where’ the copper is located, as opposed to density, parts placements, how the board is routed, balanced PCB stack-up, feature sizes, etc.&nbsp;</p><p>This one-hour session will discuss how to accomplish the goal of both low cost and high quality, with just a few simple concepts. Bottom line, when boards are not designed properly, fab and assembly houses Must make modifications to the boards, just to be able to produce them. Sometimes their mods cause the boards to malfunction. If we design correctly, this will not happen. This workshop is intended for PC board design engineers, electronic engineers and system engineers, as well as technicians and managers interested in Cost and Quality of PC boards.</p>",
+            "filters": [
+                {
+                    "id": 19753,
+                    "tags": [
+                        59690,
+                        59691,
+                        69954
+                    ]
+                }
+            ],
+            "speakers": [
+                {
+                    "speakerId": 715146,
+                    "role": "Keynote"
+                }
+            ],
+            "moderators": [
+                2142155
+            ],
+            "sponsors": [],
+            "sponsorsTitle": "Sponsored By:",
+            "attachments": [],
+            "allowRating": false,
+            "interestedIn": [],
+            "associatedContacts": {
+                "contactIds": [],
+                "contactListIds": []
+            },
+            "registration": true,
+            "registrationVisibility": true,
+            "registrationCapacityEnable": false,
+            "registrationFull": false,
+            "exclude": false,
+            "private": false,
+            "enableVirtualSession": true,
+            "enableRecordingSession": false,
+            "virtualSessionRecordingState": "DISABLED",
+            "recordingIsReady": false
+        },
+        {
+            "id": 376170,
+            "importId": "T8KLKSIvW5F9A",
+            "eventId": 233058,
+            "title": "Design WITH Manufacturing",
+            "hidden": false,
+            "startDate": 1603324800000,
+            "endDate": 1603411199000,
+            "startMinute": 855,
+            "endMinute": 930,
+            "description": "In a new era of working remotely and the addition of virtual tools and cloud-based platforms, designers and their supply chain partners have a need to collaborate like never before. In this session, we will explore ways to leverage tools and technologies to help all stakeholders during the design-to-realization process. Making collaboration seamless and easier than ever.",
+            "descriptionHtml": "In a new era of working remotely and the addition of virtual tools and cloud-based platforms, designers and their supply chain partners have a need to collaborate like never before. In this session, we will explore ways to leverage tools and technologies to help all stakeholders during the design-to-realization process. Making collaboration seamless and easier than ever.",
+            "filters": [
+                {
+                    "id": 19753,
+                    "tags": [
+                        59685,
+                        59688,
+                        59690,
+                        69954
+                    ]
+                }
+            ],
+            "speakers": [
+                {
+                    "speakerId": 756487,
+                    "role": "Panelist"
+                },
+                {
+                    "speakerId": 756484,
+                    "role": "Panelist"
+                },
+                {
+                    "speakerId": 756563,
+                    "role": "Panelist"
+                },
+                {
+                    "speakerId": 756570,
+                    "role": "Moderator"
+                }
+            ],
+            "moderators": [
+                2225269
+            ],
+            "sponsors": [],
+            "sponsorsTitle": "Sponsored By:",
+            "attachments": [],
+            "allowRating": false,
+            "interestedIn": [],
+            "associatedContacts": {
+                "contactIds": [],
+                "contactListIds": []
+            },
+            "registration": true,
+            "registrationVisibility": true,
+            "registrationCapacityEnable": false,
+            "registrationFull": false,
+            "exclude": false,
+            "private": false,
+            "enableVirtualSession": true,
+            "enableRecordingSession": true,
+            "virtualSessionRecordingState": "DISABLED",
+            "recordingIsReady": false,
+            "recordingSession": {
+                "id": 26136,
+                "accountId": 134725,
+                "eventId": 233058,
+                "sessionId": 376170,
+                "broadcastRecording": false,
+                "recordingPrimaryAssetType": "ORIGINAL",
+                "recordingAuthorization": [
+                    {
+                        "authorizationType": "TICKET_TYPE",
+                        "authorizationValue": [
+                            142775
+                        ]
+                    }
+                ],
+                "recordingIsReady": false
+            }
+        },
+        {
+            "id": 410331,
+            "importId": "pohI4ar1oT4RX",
+            "eventId": 233058,
+            "title": "Session Q&A - Design with Manufacturing",
+            "hidden": false,
+            "startDate": 1603324800000,
+            "endDate": 1603411199000,
+            "startMinute": 930,
+            "endMinute": 960,
+            "description": " Join Jeremie, Gerry, Greg and Judy for a LIVE Session Q&A on Discord.",
+            "descriptionHtml": "<p>&nbsp;Join Jeremie, Gerry, Greg and Judy for a LIVE Session Q&amp;A on Discord.</p>",
+            "filters": [
+                {
+                    "id": 19753,
+                    "tags": [
+                        59688,
+                        59690,
+                        69954
+                    ]
+                }
+            ],
+            "locationId": 28428,
+            "sublocationId": 16257,
+            "speakers": [
+                {
+                    "speakerId": 756487
+                },
+                {
+                    "speakerId": 756484
+                },
+                {
+                    "speakerId": 756563
+                }
+            ],
+            "moderators": [],
+            "sponsors": [
+                266722
+            ],
+            "sponsorsTitle": "Hosted on:",
+            "attachments": [],
+            "backgroundColor": "rgba(114,137,218,0.07)",
+            "allowRating": false,
+            "interestedIn": [],
+            "associatedContacts": {
+                "contactIds": [],
+                "contactListIds": []
+            },
+            "registration": false,
+            "registrationVisibility": false,
+            "registrationCapacityEnable": false,
+            "registrationFull": false,
+            "exclude": false,
+            "private": false,
+            "enableVirtualSession": false,
+            "enableRecordingSession": false,
+            "virtualSessionRecordingState": "DISABLED",
+            "recordingIsReady": false
+        },
+        {
+            "id": 376171,
+            "importId": "Qx9vOXPJYPJpT",
+            "eventId": 233058,
+            "title": "Crossing the Chasm: The Road to Becoming a Full-Stack Hardware Engineer",
+            "hidden": false,
+            "startDate": 1603324800000,
+            "endDate": 1603411199000,
+            "startMinute": 945,
+            "endMinute": 1035,
+            "description": "The “dynamic range” of information relating to electronics and embedded systems is incredibly large. The amount of information needed to become an effective engineer can be overwhelming, especially to those just coming into the field. Within the web technology domain, there is the concept of the “full-stack” developer who can work on both front end (what you see) and backend (how data is processed) technologies. This concept also exists in the hardware engineering domain and there is an increasing need for people who are effective “full-stack hardware engineers”. Using the example of a “connected” craft beer fermentation sensor, we will look at building bridges over chasms between biology, physics, materials science, acoustics, embedded systems, communications, cloud computing, and web technologies. Come and learn about how you move beyond being “just” a PCB design engineer to someone who can build roads and bridges between seemingly disconnected worlds.",
+            "descriptionHtml": "<p>The “dynamic range” of information relating to electronics and embedded systems is incredibly large. The amount of information needed to become an effective engineer can be overwhelming, especially to those just coming into the field. Within the web technology domain, there is the concept of the “full-stack” developer who can work on both front end (what you see) and backend (how data is processed) technologies. This concept also exists in the hardware engineering domain and there is an increasing need for people who are effective “full-stack hardware engineers”. Using the example of a “connected” craft beer fermentation sensor, we will look at building bridges over chasms between biology, physics, materials science, acoustics, embedded systems, communications, cloud computing, and web technologies. Come and learn about how you move beyond being “just” a PCB design engineer to someone who can build roads and bridges between seemingly disconnected worlds.</p>",
+            "filters": [
+                {
+                    "id": 19753,
+                    "tags": [
+                        59686,
+                        59690,
+                        59691,
+                        69954
+                    ]
+                }
+            ],
+            "speakers": [
+                {
+                    "speakerId": 700787,
+                    "role": "Keynote"
+                }
+            ],
+            "moderators": [
+                2142155
+            ],
+            "sponsors": [],
+            "sponsorsTitle": "Sponsored By:",
+            "attachments": [],
+            "allowRating": false,
+            "interestedIn": [],
+            "associatedContacts": {
+                "contactIds": [],
+                "contactListIds": []
+            },
+            "registration": true,
+            "registrationVisibility": true,
+            "registrationCapacityEnable": false,
+            "registrationFull": false,
+            "exclude": false,
+            "private": false,
+            "enableVirtualSession": true,
+            "enableRecordingSession": true,
+            "virtualSessionRecordingState": "DISABLED",
+            "recordingIsReady": false,
+            "recordingSession": {
+                "id": 26137,
+                "accountId": 134725,
+                "eventId": 233058,
+                "sessionId": 376171,
+                "broadcastRecording": false,
+                "recordingPrimaryAssetType": "ORIGINAL",
+                "recordingAuthorization": [
+                    {
+                        "authorizationType": "TICKET_TYPE",
+                        "authorizationValue": [
+                            142775
+                        ]
+                    }
+                ],
+                "recordingIsReady": false
+            }
+        },
+        {
+            "id": 408861,
+            "importId": "fwDFxGfzyhv83",
+            "eventId": 233058,
+            "title": "Meet & Greet - Arduino",
+            "hidden": false,
+            "startDate": 1603324800000,
+            "endDate": 1603411199000,
+            "startMinute": 960,
+            "endMinute": 1020,
+            "description": "Join the AltiumLive Community and meet the Arduino Team in a one-hour Meet and Greet.",
+            "descriptionHtml": "<p>Join the AltiumLive Community and meet the Arduino Team in a one-hour Meet and Greet.</p>",
+            "filters": [],
+            "locationId": 28428,
+            "sublocationId": 16232,
+            "speakers": [],
+            "moderators": [],
+            "sponsors": [
+                266722
+            ],
+            "sponsorsTitle": "Hosted on:",
+            "attachments": [],
+            "backgroundColor": "rgba(114,137,218,0.07)",
+            "allowRating": false,
+            "interestedIn": [],
+            "associatedContacts": {
+                "contactIds": [],
+                "contactListIds": []
+            },
+            "registration": false,
+            "registrationVisibility": false,
+            "registrationCapacityEnable": false,
+            "registrationFull": false,
+            "exclude": false,
+            "private": false,
+            "enableVirtualSession": false,
+            "enableRecordingSession": false,
+            "virtualSessionRecordingState": "DISABLED",
+            "recordingIsReady": false
+        },
+        {
+            "id": 408857,
+            "importId": "hZuFy9ueJ6Lw7",
+            "eventId": 233058,
+            "title": "Meet & Greet - Bob Martin from Microchip",
+            "hidden": false,
+            "startDate": 1603324800000,
+            "endDate": 1603411199000,
+            "startMinute": 1020,
+            "endMinute": 1080,
+            "description": "Join the AltiumLive Community and meet Bob Martin in a one-hour Meet and Greet.",
+            "descriptionHtml": "<p>Join the AltiumLive Community and meet Bob Martin in a one-hour Meet and Greet.</p>",
+            "filters": [],
+            "locationId": 28428,
+            "sublocationId": 16232,
+            "speakers": [
+                {
+                    "speakerId": 878465
+                }
+            ],
+            "moderators": [],
+            "sponsors": [
+                266722
+            ],
+            "sponsorsTitle": "Hosted on:",
+            "attachments": [],
+            "backgroundColor": "rgba(114,137,218,0.07)",
+            "allowRating": false,
+            "interestedIn": [],
+            "associatedContacts": {
+                "contactIds": [],
+                "contactListIds": []
+            },
+            "registration": false,
+            "registrationVisibility": false,
+            "registrationCapacityEnable": false,
+            "registrationFull": false,
+            "exclude": false,
+            "private": false,
+            "enableVirtualSession": false,
+            "enableRecordingSession": false,
+            "virtualSessionRecordingState": "DISABLED",
+            "recordingIsReady": false
+        },
+        {
+            "id": 410332,
+            "importId": "IEs49mLNmGcV8",
+            "eventId": 233058,
+            "title": "Roundtable Session Q&A",
+            "hidden": false,
+            "startDate": 1603324800000,
+            "endDate": 1603411199000,
+            "startMinute": 1020,
+            "endMinute": 1080,
+            "description": "It’s the last event of AltiumLive 2020! Join Eli, Rick and Jeremy for a LIVE Roundtable Session Q&A on Discord.",
+            "descriptionHtml": "<p>It’s the last event of AltiumLive 2020! Join Eli, Rick and Jeremy for a LIVE Roundtable Session Q&amp;A on Discord.</p>",
+            "filters": [
+                {
+                    "id": 19753,
+                    "tags": [
+                        59688,
+                        59690
+                    ]
+                }
+            ],
+            "locationId": 28428,
+            "speakers": [
+                {
+                    "speakerId": 700787
+                },
+                {
+                    "speakerId": 715146
+                },
+                {
+                    "speakerId": 700795
+                }
+            ],
+            "moderators": [],
+            "sponsors": [
+                266722
+            ],
+            "sponsorsTitle": "Hosted on:",
+            "attachments": [],
+            "backgroundColor": "rgba(114,137,218,0.07)",
+            "allowRating": false,
+            "interestedIn": [],
+            "associatedContacts": {
+                "contactIds": [],
+                "contactListIds": []
+            },
+            "registration": false,
+            "registrationVisibility": false,
+            "registrationCapacityEnable": false,
+            "registrationFull": false,
+            "exclude": false,
+            "private": false,
+            "enableVirtualSession": false,
+            "enableRecordingSession": false,
+            "virtualSessionRecordingState": "DISABLED",
+            "recordingIsReady": false
+        }
+    ],
+    "total": 29,
+    "count": 50,
+    "offset": 0,
+    "filterTagAggregation": [
+        {
+            "tagId": 59690,
+            "count": 11
+        },
+        {
+            "tagId": 59691,
+            "count": 9
+        },
+        {
+            "tagId": 59684,
+            "count": 7
+        },
+        {
+            "tagId": 59688,
+            "count": 7
+        },
+        {
+            "tagId": 69954,
+            "count": 6
+        },
+        {
+            "tagId": 59685,
+            "count": 4
+        },
+        {
+            "tagId": 59686,
+            "count": 4
+        },
+        {
+            "tagId": 59687,
+            "count": 2
+        },
+        {
+            "tagId": 59683,
+            "count": 1
+        },
+        {
+            "tagId": 59689,
+            "count": 1
+        }
+    ],
+    "locationsAggregations": [
+        {
+            "locationId": 28428,
+            "count": 10
+        },
+        {
+            "locationId": 28528,
+            "count": 1
+        }
+    ],
+    "sublocationsAggregations": [
+        {
+            "sublocationId": 16232,
+            "count": 5
+        },
+        {
+            "sublocationId": 16257,
+            "count": 4
+        },
+        {
+            "sublocationId": 16338,
+            "count": 1
+        }
+    ]
+}

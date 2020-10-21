@@ -1,0 +1,21 @@
+{
+    "id": 692972,
+    "firstname": "Lawrence",
+    "lastname": "Romine",
+    "title": "VP of Marketing",
+    "company": "Altium",
+    "country": "US",
+    "bio": "A Naval Aviation veteran, Lawrence has nearly 20 yearsÔÇÖ experience in the hi-tech industry, holding numerous engineering, sales, and marketing positions across the consumer electronics space, semiconductor, and EDA industries. Thirteen of those years have been working at Altium, where he has held nearly every position on offer. He is currently the Vice President of Marketing.",
+    "email": "lawrence.romine@altium.com",
+    "personId": 2142155,
+    "thumbnailUrl": "https://res.cloudinary.com/bizzaboprod/image/upload/c_crop,g_custom,f_auto/v1599171915/euvmivwzrwqbg6yraexk.png",
+    "eventId": 233058,
+    "created": "2020-07-27T21:48:28.000+00:00",
+    "accountId": 134725,
+    "thumbnailSet": {
+        "small": "https://res.cloudinary.com/bizzaboprod/image/upload/c_crop,g_custom,f_auto/w_60,h_60,c_fill,g_face,f_auto,q_auto:best/euvmivwzrwqbg6yraexk.png",
+        "medium": "https://res.cloudinary.com/bizzaboprod/image/upload/c_crop,g_custom,f_auto/w_120,h_120,c_fill,g_face,fl_any_format,q_auto:best/euvmivwzrwqbg6yraexk.png",
+        "large": "https://res.cloudinary.com/bizzaboprod/image/upload/c_crop,g_custom,f_auto/w_270,h_270,c_fill,g_face,fl_any_format,q_auto:best/euvmivwzrwqbg6yraexk.png"
+    },
+    "prefix": "Mr."
+}
