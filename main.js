@@ -25,6 +25,8 @@ function createWindow() {
       preload: path.join(__dirname, 'preload.js')
     }
   })
+  mainWindow.maximize();
+
   mainWindow.loadURL('https://events.bizzabo.com/233058/agenda')
   mainWindow.webContents.on('did-navigate-in-page', function (evt, url) {
     console.log(url)
